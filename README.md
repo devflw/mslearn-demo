@@ -2,4 +2,4 @@
 
 This is my GitHub project. I published it directly from Visual Studio Code.
 
-Testing with a SSH key
+Testing without opening from CLI
